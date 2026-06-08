@@ -1,0 +1,156 @@
+[
+  {
+    "name": "OpenAI News",
+    "url": "https://openai.com/news/rss.xml",
+    "category": "ai",
+    "language": "en"
+  },
+  {
+    "name": "Anthropic News",
+    "url": "https://www.anthropic.com/news/rss.xml",
+    "category": "ai",
+    "language": "en",
+    "disabled": true,
+    "note": "要確認: 2026-06-08時点でこのRSS候補は取得できませんでした。"
+  },
+  {
+    "name": "Google DeepMind Blog",
+    "url": "https://deepmind.google/blog/rss.xml",
+    "category": "research",
+    "language": "en"
+  },
+  {
+    "name": "Microsoft AI Blog",
+    "url": "https://blogs.microsoft.com/ai/feed/",
+    "category": "ai",
+    "language": "en"
+  },
+  {
+    "name": "NVIDIA Blog",
+    "url": "https://blogs.nvidia.com/feed/",
+    "category": "tech",
+    "language": "en"
+  },
+  {
+    "name": "Hugging Face Blog",
+    "url": "https://huggingface.co/blog/feed.xml",
+    "category": "ai",
+    "language": "en"
+  },
+  {
+    "name": "TechCrunch AI",
+    "url": "https://techcrunch.com/category/artificial-intelligence/feed/",
+    "category": "startup",
+    "language": "en"
+  },
+  {
+    "name": "VentureBeat AI",
+    "url": "https://venturebeat.com/category/ai/feed",
+    "category": "ai",
+    "language": "en"
+  },
+  {
+    "name": "AINOW",
+    "url": "https://ainow.jp/feed/",
+    "category": "japanese",
+    "language": "ja"
+  },
+  {
+    "name": "Ledge.ai",
+    "url": "https://ledge.ai/feed/",
+    "category": "japanese",
+    "language": "ja",
+    "disabled": true,
+    "note": "要確認: 2026-06-08時点でこのRSS候補は取得できませんでした。"
+  },
+  {
+    "name": "ITmedia AI+",
+    "url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml",
+    "category": "japanese",
+    "language": "ja"
+  },
+  {
+    "name": "Impress Watch",
+    "url": "https://www.watch.impress.co.jp/data/rss/1.0/ipw/feed.rdf",
+    "category": "japanese",
+    "language": "ja"
+  },
+  {
+    "name": "PC Watch",
+    "url": "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf",
+    "category": "japanese",
+    "language": "ja"
+  },
+  {
+    "name": "INTERNET Watch",
+    "url": "https://internet.watch.impress.co.jp/data/rss/1.0/iw/feed.rdf",
+    "category": "japanese",
+    "language": "ja"
+  },
+  {
+    "name": "ASCII.jp",
+    "url": "https://ascii.jp/rss.xml",
+    "category": "japanese",
+    "language": "ja"
+  },
+  {
+    "name": "CNET Japan",
+    "url": "https://japan.cnet.com/rss/index.rdf",
+    "category": "japanese",
+    "language": "ja"
+  },
+  {
+    "name": "ZDNET Japan",
+    "url": "https://japan.zdnet.com/rss/index.rdf",
+    "category": "japanese",
+    "language": "ja",
+    "disabled": true,
+    "note": "要確認: 2026-06-08時点でこのRSS候補は取得できませんでした。"
+  },
+  {
+    "name": "Techable",
+    "url": "https://techable.jp/feed",
+    "category": "japanese",
+    "language": "ja",
+    "disabled": true,
+    "note": "要確認: 2026-06-08時点で403エラーでした。公式RSSがあるか確認してください。"
+  },
+  {
+    "name": "THE BRIDGE",
+    "url": "https://thebridge.jp/feed",
+    "category": "startup",
+    "language": "ja"
+  },
+  {
+    "name": "BRIDGE",
+    "url": "https://thebridge.jp/feed",
+    "category": "startup",
+    "language": "ja",
+    "disabled": true,
+    "note": "THE BRIDGEと同じURL候補のため、重複防止で無効化しています。"
+  },
+  {
+    "name": "Publickey",
+    "url": "https://www.publickey1.jp/atom.xml",
+    "category": "tech",
+    "language": "ja"
+  },
+  {
+    "name": "Zenn AIタグ",
+    "url": "https://zenn.dev/topics/ai/feed",
+    "category": "tech",
+    "language": "ja"
+  },
+  {
+    "name": "Qiita AIタグ",
+    "url": "https://qiita.com/tags/AI/feed.atom",
+    "category": "tech",
+    "language": "ja"
+  },
+  {
+    "name": "note AIタグ",
+    "url": "https://note.com/hashtag/AI/rss",
+    "category": "japanese",
+    "language": "ja"
+  }
+]
