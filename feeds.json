@@ -158,5 +158,10 @@
     "url": "https://gigazine.net/news/rss_2.0/",
     "category": "japanese",
     "language": "ja"
+  },
+  {
+  "name": "YouTubeチャンネル",
+  "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWOk49lfedG6nAZGb5bIXAQ",
+  "category": "youtube",
+  "language": "ja"
   }
-]
