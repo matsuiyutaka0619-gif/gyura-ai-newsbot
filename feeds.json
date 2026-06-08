@@ -152,5 +152,11 @@
     "url": "https://note.com/hashtag/AI/rss",
     "category": "japanese",
     "language": "ja"
+  },
+  {
+    "name": "GIGAZINE",
+    "url": "https://gigazine.net/news/rss_2.0/",
+    "category": "japanese",
+    "language": "ja"
   }
 ]
