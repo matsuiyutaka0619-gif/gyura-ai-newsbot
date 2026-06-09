@@ -51,8 +51,8 @@
   },
   {
     "name": "AINOW",
-    "url": "https://ainow.jp/feed/",
-    "category": "japanese",
+    "url": "https://ainow.ai/feed/",
+    "category": "ai",
     "language": "ja"
   },
   {
@@ -61,12 +61,60 @@
     "category": "japanese",
     "language": "ja",
     "disabled": true,
-    "note": "要確認: 2026-06-08時点でこのRSS候補は取得できませんでした。"
+    "note": "要確認: 2026-06-09時点でこのRSS候補は取得できませんでした。"
   },
   {
     "name": "ITmedia AI+",
     "url": "https://rss.itmedia.co.jp/rss/2.0/aiplus.xml",
-    "category": "japanese",
+    "category": "ai",
+    "language": "ja"
+  },
+  {
+    "name": "ITmedia NEWS 最新記事",
+    "url": "https://rss.itmedia.co.jp/rss/2.0/news_bursts.xml",
+    "category": "tech",
+    "language": "ja"
+  },
+  {
+    "name": "ITmedia NEWS 海外記事",
+    "url": "https://rss.itmedia.co.jp/rss/2.0/news_foreign.xml",
+    "category": "tech",
+    "language": "ja"
+  },
+  {
+    "name": "ITmedia NEWS 製品動向",
+    "url": "https://rss.itmedia.co.jp/rss/2.0/news_products.xml",
+    "category": "tech",
+    "language": "ja"
+  },
+  {
+    "name": "ITmedia NEWS 科学・テクノロジー",
+    "url": "https://rss.itmedia.co.jp/rss/2.0/news_technology.xml",
+    "category": "tech",
+    "language": "ja"
+  },
+  {
+    "name": "ITmedia NEWS 企業・業界動向",
+    "url": "https://rss.itmedia.co.jp/rss/2.0/news_industry.xml",
+    "category": "business",
+    "language": "ja"
+  },
+  {
+    "name": "ITmedia ビジネスオンライン",
+    "url": "https://rss.itmedia.co.jp/rss/2.0/business.xml",
+    "category": "business",
+    "language": "ja"
+  },
+  {
+    "name": "＠IT",
+    "url": "https://rss.itmedia.co.jp/rss/2.0/ait.xml",
+    "category": "tech",
+    "language": "ja"
+  },
+  {
+    "name": "ITmedia エンタープライズ",
+    "url": "https://rss.itmedia.co.jp/rss/2.0/enterprise.xml",
+    "category": "enterprise",
     "language": "ja"
   },
   {
@@ -78,13 +126,19 @@
   {
     "name": "PC Watch",
     "url": "https://pc.watch.impress.co.jp/data/rss/1.0/pcw/feed.rdf",
-    "category": "japanese",
+    "category": "tech",
     "language": "ja"
   },
   {
     "name": "INTERNET Watch",
     "url": "https://internet.watch.impress.co.jp/data/rss/1.0/iw/feed.rdf",
-    "category": "japanese",
+    "category": "tech",
+    "language": "ja"
+  },
+  {
+    "name": "ケータイ Watch",
+    "url": "https://k-tai.watch.impress.co.jp/data/rss/1.0/ktw/feed.rdf",
+    "category": "tech",
     "language": "ja"
   },
   {
@@ -97,7 +151,9 @@
     "name": "CNET Japan",
     "url": "https://japan.cnet.com/rss/index.rdf",
     "category": "japanese",
-    "language": "ja"
+    "language": "ja",
+    "disabled": true,
+    "note": "要確認: 2026-06-09時点で公式RSS候補が取得できませんでした。"
   },
   {
     "name": "ZDNET Japan",
@@ -105,7 +161,7 @@
     "category": "japanese",
     "language": "ja",
     "disabled": true,
-    "note": "要確認: 2026-06-08時点でこのRSS候補は取得できませんでした。"
+    "note": "要確認: 2026-06-09時点でこのRSS候補は取得できませんでした。"
   },
   {
     "name": "Techable",
@@ -113,7 +169,7 @@
     "category": "japanese",
     "language": "ja",
     "disabled": true,
-    "note": "要確認: 2026-06-08時点で403エラーでした。公式RSSがあるか確認してください。"
+    "note": "要確認: 2026-06-09時点で403エラーでした。公式RSSがあるか確認してください。"
   },
   {
     "name": "THE BRIDGE",
@@ -136,9 +192,57 @@
     "language": "ja"
   },
   {
+    "name": "MITテクノロジーレビュー",
+    "url": "https://www.technologyreview.jp/feed/",
+    "category": "research",
+    "language": "ja"
+  },
+  {
+    "name": "WIRED Japan",
+    "url": "https://wired.jp/feed/rss/",
+    "category": "tech",
+    "language": "ja"
+  },
+  {
+    "name": "Business Insider Japan",
+    "url": "https://www.businessinsider.jp/feed/",
+    "category": "business",
+    "language": "ja"
+  },
+  {
+    "name": "東洋経済オンライン",
+    "url": "https://toyokeizai.net/list/feed/rss",
+    "category": "business",
+    "language": "ja"
+  },
+  {
+    "name": "日経クロステック IT",
+    "url": "https://xtech.nikkei.com/rss/xtech-it.rdf",
+    "category": "business",
+    "language": "ja"
+  },
+  {
+    "name": "AIsmiley AIニュース",
+    "url": "https://aismiley.co.jp/ai_news/feed/",
+    "category": "ai",
+    "language": "ja"
+  },
+  {
     "name": "Zenn AIタグ",
     "url": "https://zenn.dev/topics/ai/feed",
     "category": "tech",
+    "language": "ja"
+  },
+  {
+    "name": "Zenn 生成AIタグ",
+    "url": "https://zenn.dev/topics/生成ai/feed",
+    "category": "ai",
+    "language": "ja"
+  },
+  {
+    "name": "Zenn LLMタグ",
+    "url": "https://zenn.dev/topics/llm/feed",
+    "category": "ai",
     "language": "ja"
   },
   {
@@ -148,9 +252,27 @@
     "language": "ja"
   },
   {
+    "name": "Qiita ChatGPTタグ",
+    "url": "https://qiita.com/tags/ChatGPT/feed.atom",
+    "category": "ai",
+    "language": "ja"
+  },
+  {
+    "name": "Qiita LLMタグ",
+    "url": "https://qiita.com/tags/LLM/feed.atom",
+    "category": "ai",
+    "language": "ja"
+  },
+  {
     "name": "note AIタグ",
     "url": "https://note.com/hashtag/AI/rss",
     "category": "japanese",
+    "language": "ja"
+  },
+  {
+    "name": "note 生成AIタグ",
+    "url": "https://note.com/hashtag/生成AI/rss",
+    "category": "ai",
     "language": "ja"
   },
   {
@@ -160,9 +282,21 @@
     "language": "ja"
   },
   {
-  "name": "YouTubeチャンネル",
-  "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWOk49lfedG6nAZGb5bIXAQ",
-  "category": "youtube",
-  "language": "ja"
+    "name": "Googleニュース AI 日本語",
+    "url": "https://news.google.com/rss/search?q=AI%20OR%20%E7%94%9F%E6%88%90AI%20OR%20ChatGPT%20when:1d&hl=ja&gl=JP&ceid=JP:ja",
+    "category": "ai",
+    "language": "ja"
+  },
+  {
+    "name": "Googleニュース AI 半導体",
+    "url": "https://news.google.com/rss/search?q=%E5%8D%8A%E5%B0%8E%E4%BD%93%20OR%20NVIDIA%20OR%20GPU%20AI%20when:1d&hl=ja&gl=JP&ceid=JP:ja",
+    "category": "tech",
+    "language": "ja"
+  },
+  {
+    "name": "YouTubeチャンネル",
+    "url": "https://www.youtube.com/feeds/videos.xml?channel_id=UCWOk49lfedG6nAZGb5bIXAQ",
+    "category": "youtube",
+    "language": "ja"
   }
 ]
