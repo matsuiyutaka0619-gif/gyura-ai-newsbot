@@ -14,7 +14,7 @@ AI要約はしません。OpenAI APIも使いません。追加課金なしで�
 ## 投稿フォーマット
 
 ```text
-🧠 AI NEWS
+:icon:SINGULARITY FEED:icon:
 
 記事タイトル
 記事URL

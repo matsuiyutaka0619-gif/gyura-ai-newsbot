@@ -81,7 +81,7 @@ def get_latest_article(feed):
 
 
 def post_to_discord(webhook_url, article):
-    message = f"🧠 AI NEWS\n\n{article['title']}\n{article['url']}"
+    message = f":icon:SINGULARITY FEED:icon:\n\n{article['title']}\n{article['url']}"
     response = requests.post(
         webhook_url,
         json={"content": message},
