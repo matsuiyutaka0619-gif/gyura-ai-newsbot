@@ -1,8 +1,6 @@
 name: AI News Bot Test
 
 on:
-  schedule:
-    - cron: "23 22,3,9 * * *"
   workflow_dispatch:
 
 permissions:
